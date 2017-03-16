@@ -152,6 +152,12 @@ font-family: Baloo Bhaina, cursive;
 color: white;
 }
 
+.plusbutton:hover {
+  background-image: url(http://gifrific.com/wp-content/uploads/2014/07/John-Cena-Shock-to-Smile.gif);
+  background-position: -15px -1px;
+  background-size: 145%;
+}
+
 .minusbutton {
 background-image: url(data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTAwIDEwMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHBhdGggZD0iTTUwLjcxOCwyLjE0MWMtMjYuMTk0LDAtNDcuNTAyLDIxLjMwOC00Ny41MDIsNDcuNDk4YzAsMjYuMTk0LDIxLjMwOCw0Ny41MDIsNDcuNTAyLDQ3LjUwMiAgYzI2LjE5MSwwLDQ3LjQ5OS0yMS4zMDgsNDcuNDk5LTQ3LjUwMkM5OC4yMTcsMjMuNDQ4LDc2LjkwOSwyLjE0MSw1MC43MTgsMi4xNDF6IE0xMy4xNDYsNjEuODU4ICBjLTEuMjU4LTMuODUyLTEuOTU1LTcuOTU0LTEuOTU1LTEyLjIyczAuNjk3LTguMzY4LDEuOTU1LTEyLjIxOWg3NS4xNDFjMS4yNTQsMy44NTEsMS45NTQsNy45NTMsMS45NTQsMTIuMjE5ICBzLTAuNyw4LjM2OC0xLjk1NCwxMi4yMkgxMy4xNDZ6Ii8+PC9zdmc+);
 background-repeat: no-repeat;
